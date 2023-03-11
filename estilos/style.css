@@ -333,7 +333,7 @@ a {
   line-height: 3rem;
   padding-bottom: 3rem;
   background: #5543ca;
-  background: linear-gradient(to right, #f4524d 0%, #5543ca 100%);
+  background: linear-gradient(to right, #fcf198 0%, #5543ca 100%);
   background-clip: calc text;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
